@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @projan-shakya
 - 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning C and am open to learn anything regarding to the world of coding
+- 🌱 I’m currently learning C and python and am open to learn anything.
 - 📫 How to reach me on facebook: https://www.facebook.com/projan.shakya/
 
 <!---
